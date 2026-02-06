@@ -3,7 +3,7 @@
 ## Student Details
 
 - **Full Name:** `Arron Roasa`
-- **CCID:** `arron>`
+- **CCID:** `arron`
 
 ## References and Resources
 
