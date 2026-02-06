@@ -14,7 +14,7 @@ Date: 2016-10-17
 License: CC-BY-SA 4.0 (International) 
 
 Author: Pratik Popat: https://stackoverflow.com/users/958282/pratik-popat  
-Title: "Cannot resolve method setOnItemClickListener for RecyclerView"
+Title: "Cannot resolve method setOnItemClickListener for RecyclerView"  
 Answer: https://stackoverflow.com/a/42265171  
 Date: 2017-12-16
 License: CC-BY-SA 4.0 (International) 
