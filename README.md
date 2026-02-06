@@ -27,5 +27,5 @@ License: CC-BY-SA 4.0 (International)
 | `<example2>` | `<CCID>` |
 
 ## Demo
-(https://github.com/arronroasa/CMPUT-301-lab-05/blob/main/lab5-demo.gif)
+![demo](https://github.com/arronroasa/CMPUT-301-lab-05/blob/main/lab5-demo.gif)
 
