@@ -7,13 +7,13 @@
 
 ## References and Resources
 
-Author: Gary Bak: https://stackoverflow.com/users/1155415/gary-bak
+Author: Gary Bak: https://stackoverflow.com/users/1155415/gary-bak  
 Title: "Add swipe right to delete ListView item"  
 Answer: https://stackoverflow.com/a/40091420
 Date: 2016-10-17 
 License: CC-BY-SA 4.0 (International) 
 
-Author: Pratik Popat: https://stackoverflow.com/users/958282/pratik-popat
+Author: Pratik Popat: https://stackoverflow.com/users/958282/pratik-popat  
 Title: "Cannot resolve method setOnItemClickListener for RecyclerView"
 Answer: https://stackoverflow.com/a/42265171
 Date: 2017-12-16
